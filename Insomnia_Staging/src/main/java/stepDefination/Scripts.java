@@ -8,6 +8,7 @@ import pom.EventPage;*/
 
 public class Scripts extends AbstractWebDriver {
 //	WebDriver driver = getDriver();
+	
 public static void main(String[] args) {
 	System.out.println("Hello Jenkins");
 }

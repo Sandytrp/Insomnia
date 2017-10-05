@@ -24,4 +24,9 @@ public class AppTest extends TestCase {
 		System.out.println("TestCase");
 		assertTrue(true);
 	}
+	
+	
+	public static void main(String[] args) {
+		System.out.println("Hello Jenkings from Main Method");
+	}
 }
